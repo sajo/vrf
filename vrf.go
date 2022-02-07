@@ -25,7 +25,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/yoseplee/vrf/edwards25519"
+	"github.com/sajo/vrf/edwards25519"
 )
 
 const (
